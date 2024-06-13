@@ -1,3 +1,3 @@
 module greenlight.scott.net
 
-go 1.20
+go 1.22.4
